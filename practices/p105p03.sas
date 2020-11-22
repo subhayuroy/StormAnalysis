@@ -44,4 +44,3 @@ proc sgplot data=pg1.np_codelookup;
     keylegend / opaque across=1 position=bottomright location=inside;
     xaxis grid;
 run;
-
